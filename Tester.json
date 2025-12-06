@@ -2,7 +2,7 @@
   "dialog_config": {
     "title": "Premium Egyregy Login ",
     "subtitle": "Please enter your credentials or contact the administrator to activate your subscription",
-    "background_color_hex": "#FFFFFF",
+    "background_color_hex": "#FAEBD7",
     "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
     "button_login_text": "Login",
     "button_contact_text": "Admin Contact",
@@ -14,7 +14,7 @@
     "force_show_enabled": false,
     "remote_check_interval_ms": 30000,
     "dialog_show_interval_ms": 7200000,
-    "auth_success_toast": "Login successful! Welcome to the premium features.",
+    "auth_success_toast": "Login Berhasil",
     "auth_expired_toast": "Subscription expired. Please renew it from admin.",
     "auth_invalid_toast": "Username dan Password tidak terdaftar"
   },
