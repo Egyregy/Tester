@@ -1,6 +1,6 @@
 {
   "dialog_config": {
-    "title": "Premium Egyregy Login ",
+    "title": "Welcome, User! ",
     "subtitle": "Selamat datang user",
     "background_color_hex": "#FAEBD7",
     "profile_image_url": "https://riot-us.com/wp-content/uploads/2025/09/Still-23-%C2%A9Copyright_-%C2%A9Koyoharu-Gotoge-_-SHUEISHA-Aniplex-ufotable.jpg",
@@ -21,9 +21,15 @@
   "users": [
     {
       "username": "Egyregy",
-      "password": "boleh",
-      "device_id": "a260152f-ab60-4723-a8fb-fb59865e915a",
+      "password": "123",
+      "device_id": "c099e651-ab0c-451a-8ac9-2b0172c29075",
       "expiry_date_utc": "2025-12-08"
+    },
+    {
+      "username": "user123",
+      "password": "pass456",
+      "device_id": "8e3d64c8-3c99-44d5-947b-example00001",
+      "expiry_date_utc": "2025-12-31"
     },
     {
       "username": "user123",
