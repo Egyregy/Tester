@@ -11,7 +11,7 @@
   "status_config": {
     "maintenance_enabled": true,
     "maintenance_message": "The server is currently undergoing scheduled maintenance. Please check back soon!",
-    "force_show_enabled": true,
+    "force_show_enabled": false,
     "remote_check_interval_ms": 30000,
     "dialog_show_interval_ms": 7200000,
     "auth_success_toast": "Login Berhasil",
@@ -20,9 +20,9 @@
   },
   "users": [
     {
-      "username": "Egyregy",
+      "username": "kiw",
       "password": "123",
-      "device_id": "c099e651-ab0c-451a-8ac9-2b0172c29075",
+      "device_id": "426492d7-7de2-4f8b-90e7-dc72015d15fd",
       "expiry_date_utc": "2025-12-08"
     },
     {
