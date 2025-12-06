@@ -16,13 +16,13 @@
     "dialog_show_interval_ms": 7200000,
     "auth_success_toast": "Login successful! Welcome to the premium features.",
     "auth_expired_toast": "Subscription expired. Please renew it from admin.",
-    "auth_invalid_toast": "Invalid Username, Password, or Device ID."
+    "auth_invalid_toast": "Username dan Password tidak terdaftar"
   },
   "users": [
     {
       "username": "Egyregy",
       "password": "boleh",
-      "device_id": "ed748a26-e145-4a95-ac35-1d8c1d1705bc",
+      "device_id": "a260152f-ab60-4723-a8fb-fb59865e915a",
       "expiry_date_utc": "2025-12-08"
     },
     {
